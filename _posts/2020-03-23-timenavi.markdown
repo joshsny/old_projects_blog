@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Project: TimeNavi Website Development"
+date:   2020-03-23 11:54:00 +0000
+categories: Projects
+---
+
+I helped TimeNavi to build there online presence by creating a website for them where they could get users to sign up for their time management courses. Since launching the new website, they were able to attract new customers and increase customer retention. They were previously having an issue that customers would show interest in the product, but would not undergo the necessary steps to sign up and share they're calendar. By providing a simple to use website which automatically leads the user to instructions when they sign up, customer retention has increased significantly.
+
+An initial challenge in this project was deciding whether to aim big and develop a complex website to host their courses on or to start with a more simple website. Getting a simple website to market turned out to be a really important step as it has increased their demand for courses which in turn gives them more resources and motivation to set up a more complicated website in the future. This is a good example of how getting a minimum viable solution to market is an important step to take before diving in to a more complicated solution without having a good grasp for the demand.
+
+I enjoyed developing this website for TimeNavi and continue to help them with developing machine learning services, including categorising calendar events as work or leisure, to help them identify whether their customers are allocating their time in line with their priorities.
+
+The website can be found [here][timenavi].
+
+[timenavi]: http://timenavi.eu
